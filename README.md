@@ -1,5 +1,9 @@
 # Crowdfunding Extract, Transform, and Load (ETL)
 
+## Overview
+
+This project focuses on the extraction, transformation, and loading (ETL) of a crowdfunding dataset into a PostgreSQL relational database. The dataset includes rich information on donors, blurbs, goals, pledged amounts, campaign outcomes (success or failure), categories, subcategories, currencies, launch dates, and deadlines. The primary goal is to clean and organize the data into separate, meaningful tables to improve its integrity, accessibility, and future usability for analysis and visualization. Storing this data in a relational database minimizes redundancy and simplifies future modifications.
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Details](#project-details)
@@ -8,10 +12,6 @@
    - [Methodology](#methodology)
 3. [Conclusions](#conclusions)
 4. [Future Work](#future-work)
-
-## Overview
-
-This project focuses on the extraction, transformation, and loading (ETL) of a crowdfunding dataset into a PostgreSQL relational database. The dataset includes rich information on donors, blurbs, goals, pledged amounts, campaign outcomes (success or failure), categories, subcategories, currencies, launch dates, and deadlines. The primary goal is to clean and organize the data into separate, meaningful tables to improve its integrity, accessibility, and future usability for analysis and visualization. Storing this data in a relational database minimizes redundancy and simplifies future modifications.
 
 ## Project Details
 
